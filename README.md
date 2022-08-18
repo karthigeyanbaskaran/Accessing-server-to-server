@@ -1,4 +1,4 @@
-# Accessing-server-to-server
+# Accessing-server-to-server with the ssh-keygen
 
 
 - first need to edit in vi /etc/ssh/sshd_config
